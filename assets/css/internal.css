@@ -38,7 +38,7 @@
   padding-left: 130px;
   position: relative;
 
-  background-color: gray;
+  //background-color: gray;
 }
 
 .s-wrapper .s-main-content__top {
@@ -87,10 +87,9 @@
   flex-direction: row;
 }
 
-/**
 .s-spiderman-01-01 {
   background-image: url('../images/spiderman-tobey/movie-01/background.png');
-  background-size:cover;
+  background-size: cover;
 }
 
 .s-spiderman-01-02 {
@@ -102,5 +101,3 @@
   background-image: url('../images/spiderman-tobey/movie-03/background.png');
   background-size: cover;
 }
-
-**/
